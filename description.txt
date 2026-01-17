@@ -1,0 +1,7 @@
+It is a polite extension that pauses the video when you are not watching it.
+Features:
+- Automatically pauses YouTube videos when you switch tabs, minimize the window, or lock your screen.
+- Automatically resumes playback when you return to the YouTube tab.
+- Enforces a 1.5x playback speed to save you time.
+- Handy "Active/Disabled" toggle in the popup to pause the extension's functionality without uninstalling.
+- "Made by Harsh Sukhwal" branding.
